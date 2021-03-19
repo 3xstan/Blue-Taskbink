@@ -12,7 +12,7 @@ Organize your daily tasks based on your personal resource capacity, i.e. time av
 
 ## Version 1.0 Business Requirements
 
-- Non-Time resources
+- Non-Time resources are not yet implemented
 - Single User with login username, password (optional in this version), and nickname.
 - Pile is linked directly to a user one-to-one. Contains a list of all the tasks not completed yet.
 - Tasks each have total resource requirement bars, as well as Action Items with their own resource requirements.
