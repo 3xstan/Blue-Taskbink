@@ -4,7 +4,7 @@
 
 Organize your daily tasks based on your personal resource capacity, i.e. time availability, "SP (sanity points)", and user-defined resources.
 
-*_Currently in v1.0a _*
+**_Currently in v1.0a _**
 *Version v1.0 is in development in the development branch.*
 
 ## Version 1.0a implemented features
