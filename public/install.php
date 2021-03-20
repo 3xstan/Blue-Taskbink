@@ -1,0 +1,18 @@
+<?php 
+
+try {
+
+    require "config.php";
+
+    $connection = new PDO("mysql:host=$host", $username, $password, $options);
+
+    $sql = file_get_contents("../data/init.sql");
+    $connection -> exec($sql);
+
+    echo "Database and user table created successfully.";
+}
+catch(PDOException $error) {
+    echo $sql . "<br/>" . $error->getMessage();
+}
+
+?>
