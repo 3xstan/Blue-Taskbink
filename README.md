@@ -1,4 +1,4 @@
-# Blue Taskbink
+# Blue Taskbin
 
 *Disclaimer: Please be careful when using this app on your local machine. This is meant for demonstration purposes, so please do not clone and commit to this repository. If anyone other than the owner has contributed to this repo, they may have added harmful code. If so, do not run this app on your local machine.*
 
